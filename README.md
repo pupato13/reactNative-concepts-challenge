@@ -45,7 +45,7 @@ If you are running Android Emulator
 \$ npx react-native run-android
 
 or if you are running IOS Emulator
-\$ npx react-native run-android
+\$ npx react-native run-ios
 
 ## :white_check_mark: Running tests
 
